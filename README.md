@@ -75,26 +75,6 @@ This project is inspired by the need to provide accessible and accurate home pri
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
-
----
-
-### LinkedIn Caption
-
-```plaintext
-🏡 Excited to share my latest project: Home Price Prediction with Machine Learning!
-
-This project combines the power of machine learning with a user-friendly interface to predict home prices based on key features like location, square footage, number of rooms, and bathrooms. 
-
-🔍 **Key Highlights:**
-- Built a machine learning model to predict home prices with high accuracy.
-- Developed a Flask-based API to serve predictions seamlessly.
-- Created a responsive frontend interface with HTML, CSS, and JavaScript.
-- Leveraged data preprocessing techniques to ensure model robustness.
-- Integrated the entire solution into a cohesive application that is both easy to use and powerful.
-
-You can check out the project on my GitHub [GitHub link]. I'm always open to feedback and suggestions! 🚀
-
-#MachineLearning #Python #Flask #WebDevelopment #DataScience #RealEstate
 ```
 
-.
+
