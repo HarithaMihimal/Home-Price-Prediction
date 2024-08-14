@@ -77,7 +77,5 @@ This project is inspired by the need to provide accessible and accurate home pri
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+![image](https://github.com/user-attachments/assets/38fb468d-bf82-4ef9-a560-2fb3d7b3b820)
 
----
-
-!
