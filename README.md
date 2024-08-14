@@ -1,5 +1,4 @@
 
-```markdown
 # Home Price Prediction with Machine Learning
 
 ## Overview
@@ -74,7 +73,5 @@ This project is inspired by the need to provide accessible and accurate home pri
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-```
 
 
