@@ -66,12 +66,18 @@ HomePricePredict/
 5. **Open the frontend:**
    Open `client/app.html` in your web browser to use the user interface for predicting home prices.
 
+## Dataset
+
+The dataset used for training the model is sourced from Kaggle and contains home prices from Bengaluru, India. You can find the dataset [here](https://www.kaggle.com/datasets/mohitpratap166/bengaluru-house-data).
+
 ## Acknowledgments
 
-This project is inspired by the need to provide accessible and accurate home price predictions for individuals looking to buy or sell property. The dataset used for training the model is based on public data.
+This project is inspired by the need to provide accessible and accurate home price predictions for individuals looking to buy or sell property. The dataset used for training the model is based on public data from Kaggle.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+---
 
+!
